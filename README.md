@@ -1,4 +1,4 @@
-# Data-analysis-and-Data-visualisations
+# Data-analysis-and-Data-visualisation
 
 ### Question 1: What was the best month for sales? How much was sales for each month?¶
 
