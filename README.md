@@ -1,4 +1,4 @@
-# Project-2--Data-analysis-and-Data-visualisations
+# Data-analysis-and-Data-visualisations
 
 ### Question 1: What was the best month for sales? How much was sales for each month?¶
 
