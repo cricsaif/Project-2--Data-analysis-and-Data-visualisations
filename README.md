@@ -1,6 +1,6 @@
 # Data-analysis-and-Data-visualisation
 
-### Question 1: What was the best month for sales? How much was sales for each month?¶
+### Question 1: What was the best month for sales? How much was sales for each month?
 
 ![image](https://user-images.githubusercontent.com/64741840/82354101-48c48800-99f8-11ea-8725-f12b3aee1836.png)
 
