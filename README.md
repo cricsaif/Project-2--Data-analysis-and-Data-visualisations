@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/64741840/82354101-48c48800-99f8-11ea-8725-f12b3aee1836.png)
 
-#### The highest sale was in December. The main reason would be that during Christmas holiday there is plenty of discounts. Hence why customers buy more at this month than other months. Addionally, January sales is the lowest. The reason for this is that after spending a lot during Christmas period, customers don't have much to spend.¶
+#### The highest sale was in December. The main reason would be that during Christmas holiday there is plenty of discounts. Hence why customers buy more at this month than other months. Addionally, January sales is the lowest. The reason for this is that after spending a lot during Christmas period, customers don't have much to spend.
 
 ### Question 2:  Which city had the highest sales and why?
 
